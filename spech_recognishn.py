@@ -1,7 +1,5 @@
 import time
-
 import speech_recognition as sr
-
 
 # this is called from the background thread
 def callback(recognizer, audio):
